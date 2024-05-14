@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
      "start": "npm start --openssl-legacy-provider start",
-    "build": "npm build --openssl-legacy-provider build",
+    "build": "ng build --openssl-legacy-provider build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
